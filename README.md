@@ -1,1 +1,1 @@
-- The repository is periodically updated with interesting and useful gadgets
+## - The repository is periodically updated with interesting and useful gadgets
