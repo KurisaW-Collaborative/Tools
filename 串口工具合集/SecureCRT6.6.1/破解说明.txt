@@ -1,0 +1,5 @@
+
+1、运行scrt661-x86.exe安装secureCRT6.6。
+2、将SecureCRT-kg.exe拷贝到安装目录运行，点击Patch按钮打补丁。
+3、然后输入Name和Company，点击Generate按钮，生成License key。
+4、运行secureCRT.exe,点击菜单->Help->Enter License Data...，输入刚才的姓名、公司和生成的注册码。

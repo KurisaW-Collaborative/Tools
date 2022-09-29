@@ -1,0 +1,1 @@
+安装typora后，关闭软件，然后到typora的下载目录下找到source目录，在source目录下粘贴替换掉app.asar
